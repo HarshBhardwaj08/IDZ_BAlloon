@@ -7,12 +7,14 @@ public class Impact : MonoBehaviour
     public float forcefeild;
     public float force;
     public LayerMask layerTohit;
-    public Collider2D[] objects;
-    void Start()
-    {
+    Collider2D[] objects;
+    [SerializeField] float sec;
+    
+    private void Update()
+    { 
         explode();
+        Destroy(this.gameObject,sec);
     }
-
     void explode()
     {
        objects = Physics2D.OverlapCircleAll(transform.position, 3.0f, layerTohit);
@@ -23,4 +25,6 @@ public class Impact : MonoBehaviour
             obj.GetComponent<Rigidbody2D>().AddForce(direction * force);
         }
     }
+   
+   
 }
