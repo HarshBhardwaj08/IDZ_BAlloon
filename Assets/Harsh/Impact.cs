@@ -4,20 +4,20 @@ using UnityEngine;
 
 public class Impact : MonoBehaviour
 {
+
     public float forcefeild;
     public float force;
     public LayerMask layerTohit;
-    Collider2D[] objects;
-    [SerializeField] float sec;
-    
+    public Collider2D[] objects;
+
     private void Update()
-    { 
+    {
         explode();
-        Destroy(this.gameObject,sec);
+        Destroy(this.gameObject, 1f);
     }
     void explode()
     {
-       objects = Physics2D.OverlapCircleAll(transform.position, 3.0f, layerTohit);
+        objects = Physics2D.OverlapCircleAll(transform.position, 3.0f, layerTohit);
 
         foreach (Collider2D obj in objects)
         {
@@ -25,6 +25,6 @@ public class Impact : MonoBehaviour
             obj.GetComponent<Rigidbody2D>().AddForce(direction * force);
         }
     }
-   
-   
+
+
 }

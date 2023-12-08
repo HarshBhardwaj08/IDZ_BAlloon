@@ -403,11 +403,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forcefeild: 2
-  force: 2
+  force: 4
   layerTohit:
     serializedVersion: 2
     m_Bits: 16
-  sec: 0.5
+  sec: 5
 --- !u!50 &2382343911451902601
 Rigidbody2D:
   serializedVersion: 4
