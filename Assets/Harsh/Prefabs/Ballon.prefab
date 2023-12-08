@@ -78,7 +78,7 @@ GameObject:
   - component: {fileID: 7091769447100413080}
   m_Layer: 0
   m_Name: Ballon
-  m_TagString: Untagged
+  m_TagString: Ballon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -321,6 +321,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waterHolder: {fileID: 3673272157351316871}
   Impactpoint: {fileID: 6691103509904795530}
+  powerUp: 50
+  isPowerUp: 0
 --- !u!1 &6691103509904795530
 GameObject:
   m_ObjectHideFlags: 0
@@ -407,7 +409,7 @@ MonoBehaviour:
   layerTohit:
     serializedVersion: 2
     m_Bits: 16
-  sec: 5
+  objects: []
 --- !u!50 &2382343911451902601
 Rigidbody2D:
   serializedVersion: 4
