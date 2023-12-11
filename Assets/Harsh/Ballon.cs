@@ -10,12 +10,14 @@ public class Ballon : MonoBehaviour
     Vector3 downDir;
     Vector3 upDir;
     Vector3 finalVector;
+    SpriteRenderer spriteRenderer;
+    Rigidbody2D rg2d;
+    [SerializeField] float DestroySec;
     public GameObject waterHolder;
     public GameObject Impactpoint;
-    SpriteRenderer spriteRenderer;
     public float powerUp;
-    public bool isPowerUp;
-    Rigidbody2D rg2d;
+    bool isPowerUp;
+    float timeRecord;
     private void Awake()
     {
         rg2d = GetComponent<Rigidbody2D>();
@@ -40,6 +42,7 @@ public class Ballon : MonoBehaviour
             }
            
         }
+      
     }
 
     private void OnMouseDown()
@@ -52,32 +55,41 @@ public class Ballon : MonoBehaviour
     }
     private void OnMouseDrag()
     {
+        timeRecord += Time.time;
         
         isPowerUp = true;
         transform.position = (Vector2)Camera.main.ScreenToWorldPoint(Input.mousePosition) - difference;
+        if(timeRecord > 5.0f)
+        {
+            StartCoroutine(waitDestroyAction(DestroySec));
+            timeRecord = 0;
+        }
       
     }
     private void OnMouseUp()
     {
-        
-     
-        animator.SetTrigger("Burst");
+       
         isPowerUp = false;
         upDir = transform.position;
-       
         finalVector = (upDir - downDir).normalized;
         Debug.Log(finalVector);
         rg2d.AddForce((finalVector) * powerUp, ForceMode2D.Impulse);
+        StartCoroutine(waitDestroyAction(DestroySec));
     }
 
     public void BallonDestroy()
-    {   
+    {
+        animator.SetTrigger("Burst");
         Destroy(this.gameObject);
-       
         waterHolder.transform.parent = null;
         waterHolder.SetActive(true);
        
     }
     
+    IEnumerator waitDestroyAction(float DestroySec)
+    {
+        yield return new WaitForSeconds(DestroySec);
+        BallonDestroy();
+    }
     
 }

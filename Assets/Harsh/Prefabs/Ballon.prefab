@@ -274,7 +274,7 @@ Rigidbody2D:
   m_Mass: 5
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 1.2
   m_Material: {fileID: 6200000, guid: d982f8eca2fa46e479fb4da1d4735b13, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
@@ -319,10 +319,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00f4a5933a1d15a47aaed26fb2ec7b8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DestroySec: 5
   waterHolder: {fileID: 3673272157351316871}
   Impactpoint: {fileID: 6691103509904795530}
   powerUp: 50
-  isPowerUp: 0
 --- !u!1 &6691103509904795530
 GameObject:
   m_ObjectHideFlags: 0
@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forcefeild: 2
-  force: 4
+  force: 16
   layerTohit:
     serializedVersion: 2
     m_Bits: 16

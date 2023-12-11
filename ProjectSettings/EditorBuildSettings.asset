@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HomeScene.unity
-    guid: 8e86461eb3c97ce4da8211c131c22ef6
-  - enabled: 1
-    path: Assets/Scenes/CategorySelectionScreen.unity
-    guid: f872ef59f6a7ca24b8959544ce05046b
-  - enabled: 1
-    path: Assets/Scenes/LevelSelection.unity
-    guid: 676ce1f7c30af6646aef58ab6104d503
-  - enabled: 1
-    path: Assets/Scenes/GameScene.unity
-    guid: 789da94dbaa99dc40b9831b5d1100daf
+    path: Assets/Harsh/Water.unity
+    guid: 67ba80c8b88ec65459bc96ec4e2920b3
   m_configObjects: {}
