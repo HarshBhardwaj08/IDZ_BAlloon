@@ -1,0 +1,4592 @@
+fileFormatVersion: 2
+guid: 033bac5681f6ee848810df6693ce5b20
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1157
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7fc523d5d6f654caaefda1d70915f6
+      internalID: 1594894481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1104
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744d476e36224a49b753e543771630b
+      internalID: 1337923427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1104
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5edb2948b72744b024141fb3be80c
+      internalID: 1336475148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1104
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77982f0a0ade63448b5f01fed527eb41
+      internalID: 593255670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1105
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ae21835f638040a429d1761eac820
+      internalID: -1705259228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1104
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e15c61e5e44a243ae4cbcabc32b12b
+      internalID: -1712709193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1104
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d613e6f1fa2e458fc946b626e73f4
+      internalID: -445814732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1104
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d41eea6a64174ab5e5cdc676bc876
+      internalID: 42905146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1104
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c836d6b57e7f0b41862a6f19de0cf22
+      internalID: -2002081260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1105
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12dc9cd1a6fe8f40b28665a7972fe5f
+      internalID: 2118844306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1104
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26650765fee26494fb2d1de95d12c735
+      internalID: -1307283069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1104
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28e9376ecf85e438864b5c09e9783d
+      internalID: -250573901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1104
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7abec1df02e6947b31c5ed15f90abe
+      internalID: -194875391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1043
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e094a172f26501449746217622ff45b
+      internalID: -1124799552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1042
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d0479d573a164dacd28c5edd9f110
+      internalID: 1314458228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1042
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c241b6b9f9a27e40a8d4ce9815bfea4
+      internalID: 271900313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1042
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb5bcd7bef35b0478181014e7f6054e
+      internalID: -917404177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1041
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f7b56ef775b14f9b1e1ef6f30bfd3
+      internalID: -761553597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1042
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e337a004dcae4ca610d1d368f988b
+      internalID: 117020843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1042
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d114778a7aed24487ed1311a1e9810
+      internalID: 1989838023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1042
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca4a3b78ab0a1e4194c8b21ed419e82
+      internalID: 1848297397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1042
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9c8a4971d84c242ac4e84ff76fcfbc
+      internalID: 1536690159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1043
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac14e81045a24448e0db9f5f2c8c4a
+      internalID: -1248818609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1042
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f273959823c224284a71b2222d2e1e
+      internalID: -400401738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1042
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a1bbf37a50c14a832c53206a377c9
+      internalID: -1804456811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 979
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b186e811f29379408e83c2ff10b2005
+      internalID: 388155150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 979
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e826420cdbbd43bbc04a4f7955a27
+      internalID: 342309606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 979
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67c21a130824ed4a8be6324331c4a19
+      internalID: -864106232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 976
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbcb9563f4c2748b9acb7c81fa57a1
+      internalID: -311912539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 979
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b422f3fe3d43458af38423ed3429b
+      internalID: -1459973623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 979
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b71585ba04d5f4e89d31d8cce9fde9
+      internalID: -823245187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 976
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f32aacdbe613ad4686cff3ae6eb884f
+      internalID: -107182498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 979
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4f081aab15cd46a2ee37dc59248ac
+      internalID: 521890965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 976
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d8a4dd86e90a044ac070737cc6e4c9
+      internalID: 312937854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 976
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705eeb0faa4d106468ab7d9c684e3a4a
+      internalID: 1838169465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 979
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2633485cb735e574ea6aed17a095a9b0
+      internalID: 1017384653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 980
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816bfe93828fa6745a8d56a0f1b95838
+      internalID: 1404273518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 920
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21b25a9bca6b9846ba23e6178887c93
+      internalID: 2070249917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 919
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a362bcc9011fd1a4d9c9639fc7d5c657
+      internalID: 1297955655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 919
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b43a37f890b214198a044fbcb7f782
+      internalID: -571742389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 919
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bef5168007d3e43ad987601b65e584
+      internalID: -798323265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 920
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5d2d30e756114296c783c354d2a13
+      internalID: 1774217842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 919
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b42ea0e126f9c4fa31fd45bdcea70c
+      internalID: 1020900449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 920
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb4aaf6d89aef4cb7aa575481d7576
+      internalID: -1478727033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 919
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1b22a2b477ba4984885b9909d4f1f
+      internalID: 682823650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_45
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 919
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda411c3ff5a0e24d9a880651685660d
+      internalID: 1579319756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 856
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f8eb5d49855a448bc2ef9351b8dee
+      internalID: 1609051440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 856
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342abfd10072b0c44ba0effd9c0137d6
+      internalID: -1147006198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 855
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e521cf08e0bea46893c9b3278e74df
+      internalID: -719628121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 857
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31c2eae36567a346b326c2829f9968a
+      internalID: 1676958588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 856
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e81a3ec124204ead4a564db2e286a
+      internalID: 1084461887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 856
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579786ba0bf06604c81f9186ad6ec904
+      internalID: -666062185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 856
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7771b964a957f4c936f1619501fba7
+      internalID: 268273885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 856
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978fd20ec172164585e0b4291ff34e4
+      internalID: -828937317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 856
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6996fcea0a4694ab5d5d27277d90f9
+      internalID: 1421775760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 856
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe7ccbecb7c1241896e5031011d655
+      internalID: -278016378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_56
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 856
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3cb8804d56ad45a4ddb1f98837715
+      internalID: -776367377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 794
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971eab2efc37eb44a6c7f7ad5f9d840
+      internalID: -2123079764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 793
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621104049dbee3e449ae49874fd9f792
+      internalID: 650786087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 793
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9e9477ca456a4fbbec4d47be85999
+      internalID: -1144254706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 794
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49525f3279d604882c98bafd5cdf12
+      internalID: 1463437167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 792
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c68e81e3a6db7642bcd0e5bb26562c6
+      internalID: 423379877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 793
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c45d4bd87b5a44a5e2dd888983fe3
+      internalID: 1920696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 793
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073805c9bca8754cb39e7ceb96476a0
+      internalID: 857156259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 792
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1969b2da050179469c2ce6fb465b3d5
+      internalID: -742542714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_65
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 792
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03595c07eda0c1740bc531fb0ed0ee9c
+      internalID: 458559950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_66
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 794
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edba91147dfc0f46934fa7ffe80e641
+      internalID: 889571856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_67
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 793
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93c61b900e67847924665d16e88efd
+      internalID: -303126179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 728
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266f16a57b5a0404da67d8134457c6c0
+      internalID: 1483274672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 727
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ffce6477d83844fb9c31098bb832c8
+      internalID: -1788043892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 728
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380f474257063545a4cc7f39bd7c0f0
+      internalID: 1110175761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 728
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae6bd8f11d08f40a6fb8e6e3011dd4
+      internalID: -386132464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_72
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 727
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0669ca81fbf94f45b137a11a190b026
+      internalID: -1522444883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 728
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa64186b50a28ac469096eab323f7ea1
+      internalID: 667201915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_74
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 728
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e55a676b4d8ad1488c493fe99851de9
+      internalID: 290468584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_75
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 728
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2335ad5431ef31a48b12464d65802c53
+      internalID: -1362483697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 728
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534cab60522eb04ca08206b16561239
+      internalID: 761411741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_77
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 724
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368da79ecc2efa34595e301dd044c9a8
+      internalID: 214690847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_78
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 727
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717229c1d4408147aaaf0d41f04b1f8
+      internalID: 208298679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_79
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 727
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a593ac3081ee6845aedc39ab4be80f0
+      internalID: -723059418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 661
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc30fbc11430db4398a4d2ee76f09da
+      internalID: -127766369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 660
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be625831a396e648a5873b1a299d5be
+      internalID: 1719749763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 660
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f915b126a498243b6b83763783af7b
+      internalID: 1416657154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 660
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a92396992ba4489ed8cdc01c33a2d
+      internalID: -1459297306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_84
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 661
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7f67a67b016942bbc5bc57ffe23ea
+      internalID: 1943909432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 661
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7067da8a28f9cad48aa86cd780ff01c2
+      internalID: -682475455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_86
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 660
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d819a4f76cc9d24886d2d5dae26175c
+      internalID: 240288852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_87
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 660
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e317917e5ee54d922a196c1f08d09
+      internalID: 139705676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_88
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 661
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5ead880759ea94c9d7e9e9046c9073
+      internalID: -726760165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_89
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 660
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6aef88e051e74bbe1f9b4bb75795a
+      internalID: 228398601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_90
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 660
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdff7730b8164849b586037b894784b
+      internalID: 23880274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_91
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 660
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682be6566ef42bc4cafc3bb88e8caeac
+      internalID: -402670148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 591
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd0b3a7a0791b949a846ad97cd1d61c
+      internalID: 1977585788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_93
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 591
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750afcfc648d9647b300592723d27a9
+      internalID: -525124330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 592
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cce8c2ab477644387fe6f7fa8ffea2
+      internalID: 1227897484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 591
+        width: 123
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecdfd01cea41ec4d850fc3a276c19b3
+      internalID: 779469626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_96
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 591
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da67d46e112ba43b0c715061ec4365
+      internalID: 742143552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_97
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 591
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12506ca962ba38444823722b086d7053
+      internalID: 1671684879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_98
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 592
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afebcc1c8a5a333478d436e033bf930b
+      internalID: -1215052702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_99
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 592
+        width: 186
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b843282bd1230f4eb6e36de7b439973
+      internalID: 600308830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 524
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c7c64e13618645a2c496dbd5e6ce8
+      internalID: 547515931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 524
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ac18e4d0b790a47b7e75ee7517f8ef
+      internalID: 1328761707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 523
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1469ede0e3b7488a30b0f71902ddb
+      internalID: 1095599481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_103
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 523
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c6debda03eb91428a19e68fc3952f9
+      internalID: -71802502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_104
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 523
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0042849485c3e7458681b3881f7b874
+      internalID: -1788442277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_105
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 523
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7b5b41b51d91544a7dc47568ed43e4
+      internalID: -222089527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_106
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 523
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaec5a0b117ec245a1427595a13bcf1
+      internalID: 883124517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_107
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 523
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfdefcecd0822f4a8a1fcff02cb0d4b
+      internalID: -1189834525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7853a3a28d1d4948876282265058060
+      internalID: -2046729414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 452
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f6a1f1187c944c831d834f3820cff
+      internalID: -1420096081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 452
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487223525527e34d959785209ae4c89
+      internalID: 1965191696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10b959c8820a0478ef8c5e65a96070
+      internalID: 1975358919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63702de16130584b989d2f6e5d3e8e5
+      internalID: -2071169001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_113
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 452
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a391005653877084c96d385203ab08fa
+      internalID: -249326357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_114
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed5b650a759724f9c9990fc2bbb5d5
+      internalID: -1894201485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_115
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff37a39e508ff41af5a313b1066760
+      internalID: 483669234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_116
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9731be2760924b87af9714ddea01e
+      internalID: 1568608187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_117
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 452
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc0fda012f87348be30f86093f0cd9
+      internalID: -473740066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_118
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 452
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e87338cb2bd7c4b808ce92b9de3c5a
+      internalID: 1537868380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_119
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 452
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7a07c9288b364586c92035dc72c88
+      internalID: -1914332893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 380
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45cc8efe970c14f98a517f3d7b7f9a
+      internalID: -782492575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_121
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 379
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb13413196c61dc48a565e393ea2d28a
+      internalID: -1539533731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe638f90e307942b4f8a7796e29a1f
+      internalID: -74116142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 380
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ffd084206dd443a4728ddd214723e
+      internalID: -994290104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf58d4db21401247b46127b3571cc29
+      internalID: 1107645884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a861dfda4e36474bb54af886a9f6b1b
+      internalID: -855986910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 379
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38c337f40df8f446bb82e4965ef98d1
+      internalID: 963811018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0666d9cc3831a419db7d93a14db128
+      internalID: 393869442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a46dc9e89b21b43af0d321ef051682
+      internalID: 215915241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a14e9cec47bc24b995b4c6e14994cb
+      internalID: 893170125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 380
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642bca4cd545b641a01d48951b149ba
+      internalID: 1819768526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 312
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c494c12841b54cbd7d06e93c6e647
+      internalID: -26080902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_132
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 311
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b8285d14e64544b2f7f4c6bfbea24
+      internalID: 624071403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_133
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 312
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e82bd470effd43ba5ccb870fbebdb
+      internalID: -1176536747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_134
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa02e25fb11c01c42a734be3846667ea
+      internalID: -659535021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_135
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 312
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4d4547e80ce2449716cc47832a1ad
+      internalID: -982133939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_136
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 311
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c85574e3cd749438ac761007193afe
+      internalID: 1490720273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_137
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 311
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82dac6f9cd1d7c48a1a9d17467e8a9f
+      internalID: 289235148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_138
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 312
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706f46c0ebe1a34aa1eead485183b38
+      internalID: 203825789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_139
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 311
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a687e945d306498a86e0152812045
+      internalID: 1476767744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_140
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 311
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef66179d213f924fa7c51f142347843
+      internalID: 1062910817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_141
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 312
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aaedf045ef7aa43b3b09822d2a795c
+      internalID: 767287677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_142
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 308
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8047e3245086416448c13bcd65a657b0
+      internalID: 2005260799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 253
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a5d5de118c1d4f8eed11d360ed09b
+      internalID: 1875566801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_144
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 253
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2caf70e639a7d45a84fa26fef6793c
+      internalID: -1803163024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_145
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 253
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099a932310581e40a26e28f4df5c519
+      internalID: -1665888623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_146
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 253
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15ca9a4e778c742a7b7ae8698b8426
+      internalID: 2015528893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_147
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 252
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a7d0c449b64e447a908283faf6f39c
+      internalID: -1467502374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_148
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 253
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5c0cad0cab0f4186f6f165dac24e7
+      internalID: -819063360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_149
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 252
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc276c84d4bce3f4f8d7c98fbb3358c0
+      internalID: 630822929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_150
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 253
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6efebeae47de046bba64317832ed0f
+      internalID: -124335136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_151
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 252
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147737eae65d7a41a91b1c8524b24ed
+      internalID: -1546826094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_152
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 253
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe23250f1dedb4f86701ffdf7f6e8d
+      internalID: 148107885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_153
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 253
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5ece2ae110f045b35b0f47cb28c9b
+      internalID: -236779568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_154
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 252
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d672b030a0448bc4a8a921554ebdee23
+      internalID: -934580179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93429573fe43d0f4bbba23f85d79da74
+      internalID: -1309054928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_156
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b2841a41c92141a8bdaa9d4d5c36a
+      internalID: 1689282493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_157
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136f2b504fe2da4baa30b1c19df862a
+      internalID: -864421992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_158
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55205a119f2c8f14880ace02d99ed130
+      internalID: 1390291485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_159
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 192
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c838355c6d98341a8f526a0b1cf0b0
+      internalID: 554011702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_160
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb1e13d19d3b249a826b61f271ab21
+      internalID: -1480821839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_161
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b9b73106ed6f240aacf4894942f1de
+      internalID: 202375271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_162
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7f878e3c613e4ea6a5ffe509723ed
+      internalID: -1181676731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_163
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 192
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f9d72732e39e4eb5c00085d94fb46
+      internalID: 521507984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_164
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 192
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294cff2e7abd4542ae78d177aae18c4
+      internalID: -112380524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_165
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 192
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d04490d25b9d42b39bbbed3459eef
+      internalID: 1716709799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_166
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 192
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0dbe0d11cf6104a920877b344a360b
+      internalID: -77017573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_167
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 142
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df34bd59b0891f45b144ea23b07ac4a
+      internalID: 150707731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_168
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 141
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63cdf278483d844ba188fabd71f851b
+      internalID: -783939987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_169
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 142
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53010fb327ee89a4d8136b38c47fc938
+      internalID: 176560430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_170
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe22354d7430d42bc68ec4a784efd5
+      internalID: -1873864423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_171
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 142
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0632a8a429baa24fb7c6894b9b5ad3b
+      internalID: -605263441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_172
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 141
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba965cc0e979d34092bce58163d5814
+      internalID: -1187231280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_173
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 142
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a9321dcce1b348b99f397052cee58
+      internalID: 212065946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_174
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 142
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189a33491e3e8747987426734a64e1e
+      internalID: -1806522923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_175
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 142
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e60d1c626fce45839aa3c703a2929
+      internalID: -789914734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_176
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a10650ca73ae746b7fea8c2ced890c
+      internalID: 1641653501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_177
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3513ba91e2dd2147af6c604d346c125
+      internalID: -941882063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_178
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 79
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0ebbc54103014da6982169730bcb3
+      internalID: -237511165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_179
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e13b391d83c7a46b94ab95f9b2d132
+      internalID: -100095470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_180
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 79
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5e161b55fd5f446a86b7a049c66b00
+      internalID: -1461710593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_181
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 79
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e34e9d52352ca4ebf0006f2c7786f9
+      internalID: -2046520801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_182
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 80
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca1f9dc25c26e14ea8ddfe827c7cace
+      internalID: 907078501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_183
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35253f7fba3dc0f46b2ad380c88d7a7a
+      internalID: -1027226466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_184
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 12
+        width: 250
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894211f7781751d41b46bfd6f4fd7486
+      internalID: -1529985707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_185
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a3018fb40394849a792e70ceb7dab7
+      internalID: -99083625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_186
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bebeb55e76066e48b68435b01ca55c5
+      internalID: -1444515534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_187
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e62b16b57cb1243bce78f9fc3fa9e6
+      internalID: 39799546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_188
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fbb0024a09f2c47bebe8558ca05fba
+      internalID: -1157652412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_189
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 14
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b621cc19709ff124c9f69f88646a079d
+      internalID: -127753726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_190
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 14
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12fcb8ca7aeb5e4ba47a54500c06418
+      internalID: -1759748165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_191
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 14
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34332a12545790e4cad0617d6b469f46
+      internalID: 2001119016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x
+        (1)-PhotoRoom_192
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 14
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f47b8a4c2bdcd46907142f076a18f0
+      internalID: 1627433566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_0: 1594894481
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_1: 1337923427
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_10: -1307283069
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_100: 547515931
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_101: 1328761707
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_102: 1095599481
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_103: -71802502
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_104: -1788442277
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_105: -222089527
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_106: 883124517
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_107: -1189834525
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_108: -2046729414
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_109: -1420096081
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_11: -250573901
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_110: 1965191696
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_111: 1975358919
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_112: -2071169001
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_113: -249326357
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_114: -1894201485
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_115: 483669234
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_116: 1568608187
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_117: -473740066
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_118: 1537868380
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_119: -1914332893
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_12: -194875391
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_120: -782492575
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_121: -1539533731
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_122: -74116142
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_123: -994290104
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_124: 1107645884
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_125: -855986910
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_126: 963811018
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_127: 393869442
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_128: 215915241
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_129: 893170125
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_13: -1124799552
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_130: 1819768526
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_131: -26080902
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_132: 624071403
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_133: -1176536747
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_134: -659535021
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_135: -982133939
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_136: 1490720273
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_137: 289235148
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_138: 203825789
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_139: 1476767744
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_14: 1314458228
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_140: 1062910817
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_141: 767287677
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_142: 2005260799
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_143: 1875566801
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_144: -1803163024
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_145: -1665888623
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_146: 2015528893
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_147: -1467502374
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_148: -819063360
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_149: 630822929
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_15: 271900313
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_150: -124335136
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_151: -1546826094
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_152: 148107885
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_153: -236779568
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_154: -934580179
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_155: -1309054928
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_156: 1689282493
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_157: -864421992
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_158: 1390291485
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_159: 554011702
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_16: -917404177
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_160: -1480821839
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_161: 202375271
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_162: -1181676731
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_163: 521507984
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_164: -112380524
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_165: 1716709799
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_166: -77017573
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_167: 150707731
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_168: -783939987
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_169: 176560430
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_17: -761553597
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_170: -1873864423
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_171: -605263441
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_172: -1187231280
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_173: 212065946
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_174: -1806522923
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_175: -789914734
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_176: 1641653501
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_177: -941882063
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_178: -237511165
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_179: -100095470
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_18: 117020843
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_180: -1461710593
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_181: -2046520801
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_182: 907078501
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_183: -1027226466
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_184: -1529985707
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_185: -99083625
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_186: -1444515534
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_187: 39799546
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_188: -1157652412
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_189: -127753726
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_19: 1989838023
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_190: -1759748165
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_191: 2001119016
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_192: 1627433566
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_2: 1336475148
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_20: 1848297397
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_21: 1536690159
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_22: -1248818609
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_23: -400401738
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_24: -1804456811
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_25: 388155150
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_26: 342309606
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_27: -864106232
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_28: -311912539
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_29: -1459973623
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_3: 593255670
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_30: -823245187
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_31: -107182498
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_32: 521890965
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_33: 312937854
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_34: 1838169465
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_35: 1017384653
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_36: 1404273518
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_37: 2070249917
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_38: 1297955655
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_39: -571742389
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_4: -1705259228
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_40: -798323265
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_41: 1774217842
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_42: 1020900449
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_43: -1478727033
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_44: 682823650
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_45: 1579319756
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_46: 1609051440
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_47: -1147006198
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_48: -719628121
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_49: 1676958588
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_5: -1712709193
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_50: 1084461887
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_51: -666062185
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_52: 268273885
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_53: -828937317
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_54: 1421775760
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_55: -278016378
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_56: -776367377
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_57: -2123079764
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_58: 650786087
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_59: -1144254706
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_6: -445814732
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_60: 1463437167
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_61: 423379877
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_62: 1920696206
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_63: 857156259
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_64: -742542714
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_65: 458559950
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_66: 889571856
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_67: -303126179
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_68: 1483274672
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_69: -1788043892
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_7: 42905146
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_70: 1110175761
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_71: -386132464
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_72: -1522444883
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_73: 667201915
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_74: 290468584
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_75: -1362483697
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_76: 761411741
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_77: 214690847
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_78: 208298679
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_79: -723059418
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_8: -2002081260
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_80: -127766369
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_81: 1719749763
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_82: 1416657154
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_83: -1459297306
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_84: 1943909432
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_85: -682475455
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_86: 240288852
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_87: 139705676
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_88: -726760165
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_89: 228398601
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_9: 2118844306
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_90: 23880274
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_91: -402670148
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_92: 1977585788
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_93: -525124330
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_94: 1227897484
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_95: 779469626
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_96: 742143552
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_97: 1671684879
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_98: -1215052702
+      _cc__flower_sprites___flowerpedia_1_0_final_update_by_blueyoukai_de8c9j9-375w-2x (1)-PhotoRoom_99: 600308830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

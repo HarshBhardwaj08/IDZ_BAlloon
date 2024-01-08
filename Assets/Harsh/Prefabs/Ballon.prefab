@@ -405,7 +405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forcefeild: 2
-  force: 16
+  force: 0
   layerTohit:
     serializedVersion: 2
     m_Bits: 16
