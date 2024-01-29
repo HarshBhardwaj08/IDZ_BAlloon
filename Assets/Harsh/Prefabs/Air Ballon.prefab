@@ -266,4 +266,4 @@ MonoBehaviour:
   - {fileID: 5219522593630891125, guid: 397f850499fa344478626301c91ee0d3, type: 3}
   - {fileID: 388679935823378546, guid: 2615b4f74024c6d4b9da1862db16b073, type: 3}
   - {fileID: 490739507232474339, guid: 0d476145938005f47b4b3a7bbf93f7a3, type: 3}
-  floatSpeed: 0.1
+  floatSpeed: 0.89
