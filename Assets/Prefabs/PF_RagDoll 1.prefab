@@ -419,7 +419,7 @@ SpringJoint2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 500659575014317857}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 0}
@@ -430,7 +430,7 @@ SpringJoint2D:
   m_Anchor: {x: 0, y: 0}
   m_ConnectedAnchor: {x: 0, y: 0}
   m_AutoConfigureDistance: 1
-  m_Distance: 1.7339997
+  m_Distance: 2.6962967
   m_DampingRatio: 1
   m_Frequency: 0
 --- !u!331 &5086675925187363369
