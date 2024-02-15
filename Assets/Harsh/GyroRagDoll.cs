@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class GyroRagDoll : MonoBehaviour
 {
-    [SerializeField] private float speed = 5f; // Adjust based on your desired sensitivity
-    [SerializeField] private bool useGravity = true; // Option to enable gyroscope-based gravity
-    [SerializeField] private float gravityMultiplier = 9.81f; // Adjust gravity strength, if enabled
-
+    [SerializeField] float jumpforce;
+    [SerializeField] float gravity;
+    [SerializeField] float diry;
+    public float sensitivity = 10.0f;
     private Vector3 initialRotation;
-    public Rigidbody2D rb;
+    public Rigidbody2D rb2D;
 
     void Start()
     {
@@ -17,29 +17,25 @@ public class GyroRagDoll : MonoBehaviour
         initialRotation = transform.rotation.eulerAngles;
         Input.gyro.enabled = true;
     }
-
-    void FixedUpdate()
+    private void Update()
     {
-        if (!Input.gyro.enabled)
+        float dirx = Input.acceleration.x * sensitivity * Time.deltaTime;
+        float yMove = Input.acceleration.y * 4 * Time.deltaTime;
+        float diry = -gravity * Time.deltaTime; // Gravity should be applied constantly.
+
+        //  Debug.Log("dirx = " + dirx + " diry = " + diry);
+
+        if (dirx > 0.02 || Input.GetKey(KeyCode.D))
         {
-            Debug.LogWarning("Gyroscope not enabled on this device.");
-            return;
+            rb2D.velocity = new Vector2(dirx*sensitivity ,rb2D.velocity.y);
         }
-
-        // Get gyroscope rotation relative to initial rotation
-        Vector3 gyroRotation = Input.gyro.attitude.eulerAngles - initialRotation;
-
-        // Convert to Z-axis rotation for 2D movement (rotate around world up vector)
-        float rotationZ = gyroRotation.y;
-
-        // Apply rotation to horizontal movement
-        rb.velocity = new Vector2(rotationZ * speed, rb.velocity.y);
-
-        if (useGravity)
+        else if (dirx < -0.02)
         {
-            // Apply downward force based on tilt (simulate gravity)
-            Vector2 gravityForce = Vector2.down * (gravityMultiplier * gyroRotation.x);
-            rb.AddForce(gravityForce, ForceMode2D.Force);
+            rb2D.velocity += new Vector2(dirx, yMove);
+        }
+        else
+        {
+            rb2D.velocity = new Vector2(0, rb2D.velocity.y); // Maintain vertical velocity, only update horizontal.
         }
     }
 }
