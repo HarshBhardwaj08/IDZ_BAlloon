@@ -20,10 +20,10 @@ public class GyroRagDoll : MonoBehaviour
     private void Update()
     {
         float dirx = Input.acceleration.x * sensitivity * Time.deltaTime;
-        float yMove = Input.acceleration.y * 4 * Time.deltaTime;
+        float yMove = Input.acceleration.y * sensitivity * Time.deltaTime;
         float diry = -gravity * Time.deltaTime; // Gravity should be applied constantly.
 
-        //  Debug.Log("dirx = " + dirx + " diry = " + diry);
+          Debug.Log( " diry = " + diry);
 
         if (dirx > 0.02 || Input.GetKey(KeyCode.D))
         {
@@ -31,7 +31,19 @@ public class GyroRagDoll : MonoBehaviour
         }
         else if (dirx < -0.02)
         {
-            rb2D.velocity += new Vector2(dirx, yMove);
+            rb2D.velocity += new Vector2(dirx*sensitivity, yMove);
+        }
+        else
+        {
+            rb2D.velocity = new Vector2(0, rb2D.velocity.y); // Maintain vertical velocity, only update horizontal.
+        }
+        if (yMove > 0.02 || Input.GetKey(KeyCode.D))
+        {
+            rb2D.velocity = new Vector2(rb2D.velocity.x, yMove*sensitivity);
+        }
+        else if (yMove < -0.02)
+        {
+            rb2D.velocity += new Vector2(rb2D.velocity.x, yMove*sensitivity);
         }
         else
         {
